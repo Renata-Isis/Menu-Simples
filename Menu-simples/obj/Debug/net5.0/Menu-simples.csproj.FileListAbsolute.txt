@@ -1,0 +1,16 @@
+C:\Users\renat\Documents\C#\Menu-simples\Menu-simples\bin\Debug\net5.0\Menu-simples.exe
+C:\Users\renat\Documents\C#\Menu-simples\Menu-simples\bin\Debug\net5.0\Menu-simples.deps.json
+C:\Users\renat\Documents\C#\Menu-simples\Menu-simples\bin\Debug\net5.0\Menu-simples.runtimeconfig.json
+C:\Users\renat\Documents\C#\Menu-simples\Menu-simples\bin\Debug\net5.0\Menu-simples.runtimeconfig.dev.json
+C:\Users\renat\Documents\C#\Menu-simples\Menu-simples\bin\Debug\net5.0\Menu-simples.dll
+C:\Users\renat\Documents\C#\Menu-simples\Menu-simples\bin\Debug\net5.0\ref\Menu-simples.dll
+C:\Users\renat\Documents\C#\Menu-simples\Menu-simples\bin\Debug\net5.0\Menu-simples.pdb
+C:\Users\renat\Documents\C#\Menu-simples\Menu-simples\obj\Debug\net5.0\Menu-simples.csproj.AssemblyReference.cache
+C:\Users\renat\Documents\C#\Menu-simples\Menu-simples\obj\Debug\net5.0\Menu-simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renat\Documents\C#\Menu-simples\Menu-simples\obj\Debug\net5.0\Menu-simples.AssemblyInfoInputs.cache
+C:\Users\renat\Documents\C#\Menu-simples\Menu-simples\obj\Debug\net5.0\Menu-simples.AssemblyInfo.cs
+C:\Users\renat\Documents\C#\Menu-simples\Menu-simples\obj\Debug\net5.0\Menu-simples.csproj.CoreCompileInputs.cache
+C:\Users\renat\Documents\C#\Menu-simples\Menu-simples\obj\Debug\net5.0\Menu-simples.dll
+C:\Users\renat\Documents\C#\Menu-simples\Menu-simples\obj\Debug\net5.0\ref\Menu-simples.dll
+C:\Users\renat\Documents\C#\Menu-simples\Menu-simples\obj\Debug\net5.0\Menu-simples.pdb
+C:\Users\renat\Documents\C#\Menu-simples\Menu-simples\obj\Debug\net5.0\Menu-simples.genruntimeconfig.cache
